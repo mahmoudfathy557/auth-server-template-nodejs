@@ -1,0 +1,4 @@
+MONGO_URI=mongodb+srv://<user>:<pass>@<cluster>/<db name>?retryWrites=true &
+w=majority
+JWT_SECRET=<any thing>
+JWT_LIFETIME=30d
